@@ -1,0 +1,10 @@
+title: Japan Market Entry Guide
+description: A practical guide for overseas brands entering the Japanese market
+theme: minima
+lang: en
+
+author:
+  name: Yuto Saeki
+
+plugins:
+  - jekyll-feed
