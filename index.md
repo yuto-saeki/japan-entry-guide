@@ -3,15 +3,17 @@ layout: home
 title: JPGO
 ---
 
-A practical, no-fluff guide for overseas brands looking to enter the Japanese market — written by someone who does this every day.
+## Japan market entry, run like a product.
 
-## Why Japan, Why Now
+Marketing playbooks, research, and validation — for brands that want Japan without the fog.
 
-Japan is the world's third-largest economy with 125M+ consumers who have high purchasing power and strong brand loyalty. Yet most overseas brands underestimate how different the market is — and how much opportunity that gap creates.
+---
 
-## Guides by Industry
+**[Learn](./learn)**
+Frameworks and playbooks for entering the Japanese market.
 
-- [🌿 Health & Wellness](./health-wellness) — Supplements, organic food, biotech brands
-- More industries coming soon
+**[Research](./research)**
+Data and insights to validate your Japan strategy before you commit.
 
-[About this guide →](./about)
+**[Work with us](./work)**
+Work directly with us to plan and execute your Japan entry.

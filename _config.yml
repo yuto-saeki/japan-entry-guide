@@ -6,5 +6,10 @@ lang: en
 author:
   name: Yuto Saeki
 
+header_pages:
+  - learn.md
+  - research.md
+  - work.md
+
 plugins:
   - jekyll-feed
