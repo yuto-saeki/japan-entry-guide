@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <defs>
+    <style>
+      @import url('https://cdn.jsdelivr.net/npm/@fontsource/bebas-neue/index.css');
+    </style>
+    <clipPath id="left"><rect width="16" height="32"/></clipPath>
+    <clipPath id="right"><rect x="16" width="16" height="32"/></clipPath>
+  </defs>
+  <!-- Left half: black bg -->
+  <rect width="16" height="32" fill="#000"/>
+  <!-- Right half: white bg -->
+  <rect x="16" width="16" height="32" fill="#fff"/>
+  <!-- Hairline divider -->
+  <line x1="16" y1="0" x2="16" y2="32" stroke="#ccc" stroke-width="0.5"/>
+  <!-- JP: white on black -->
+  <text clip-path="url(#left)"
+    x="1" y="24"
+    font-family="'Bebas Neue', Impact, sans-serif"
+    font-size="22" fill="#fff" letter-spacing="0">JP</text>
+  <!-- GO: black on white -->
+  <text clip-path="url(#right)"
+    x="17" y="24"
+    font-family="'Bebas Neue', Impact, sans-serif"
+    font-size="22" fill="#000" letter-spacing="0">GO</text>
+</svg>

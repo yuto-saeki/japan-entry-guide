@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 72" width="220" height="72">
+  <defs>
+    <style>
+      @import url('https://cdn.jsdelivr.net/npm/@fontsource/bebas-neue/index.css');
+    </style>
+  </defs>
+  <rect width="220" height="72" fill="white"/>
+  <text x="4" y="62"
+    font-family="'Bebas Neue', Impact, 'Arial Narrow', sans-serif"
+    font-size="68"
+    letter-spacing="3"
+    style="paint-order: stroke fill;">
+    <tspan fill="none" stroke="#000" stroke-width="2.5">JP</tspan><tspan fill="#000">GO</tspan>
+  </text>
+</svg>
